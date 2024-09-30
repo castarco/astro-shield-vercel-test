@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@astrojs/vercel": "^7.8.1",
-		"@kindspells/astro-shield": "^1.6.0",
+		"@kindspells/astro-shield": "^1.6.1",
 		"astro": "^4.15.9"
 	},
 	"devDependencies": {
